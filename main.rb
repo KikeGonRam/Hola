@@ -1,1 +1,6 @@
-puts "¡Hola, Mundo!"
+puts "  **   **  "
+puts " ****** ** "
+puts "  ******   "
+puts "   ****    "
+puts "    **     "
+puts "\n¡Corazón en Ruby!"
